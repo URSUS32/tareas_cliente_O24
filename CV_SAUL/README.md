@@ -1,5 +1,3 @@
-# tareas_cliente_O24
-
 ## TAREA1
 
 ### Desarrollo de CV personal en formato web con aplicaciones fundamentales de SASS:
