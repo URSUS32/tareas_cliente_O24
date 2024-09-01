@@ -16,7 +16,7 @@ npm run dev
 
 ```
 
-**Cambios que se deben realizar en el JSON para cambiar la cuenta de correo a la que se enviará la información del formulario de contacto**
+**Cambios que se deben realizar en el JSON para cambiar la cuenta de correo a la que se enviará la información del formulario de contacto:**
 1. Tener cuenta de getForm con un formulario creado y obtener el link para el formulario
 2. Abir archivo src/json/cv_data.json.
 3. Identificar clave "getform_url".
