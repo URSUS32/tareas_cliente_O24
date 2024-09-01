@@ -5,5 +5,5 @@
 ### ⭐️ = Terminada
 
 ## 🖌️ Tareas incluidas
-1. ⭐️ Tarea 1: CV en línea
-2. ⭐️ Tarea 2: Aplicación de CV en línea
+1. ⭐️ [Tarea 1: CV en línea](https://github.com/URSUS32/tareas_cliente_O24/tree/tarea1)
+2. ⭐️ [Tarea 2: Aplicación de CV en línea](https://github.com/URSUS32/tareas_cliente_O24/tree/tarea2)
