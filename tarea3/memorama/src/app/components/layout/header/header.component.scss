@@ -1,0 +1,35 @@
+header{
+    height: 80%;
+    background-color: #da3737;
+    padding: 0 20px;
+
+    span{
+        color: #FFFFFF;
+        font-size: 28px;
+        font-weight: bold;
+        line-height: 80px;
+    }
+
+    ul{
+        display: inline;
+        list-style: none;
+        margin-left: 20px;
+
+
+        li{
+            display: inline-block;
+            margin-left: 8px;
+            margin-top: 0;
+            padding: 0;
+
+            a{
+                cursor: pointer;
+                display: inline-block;
+                padding: 0 10px;
+                line-height: 90px;
+                text-decoration: none;
+                color: #FFFFFF;
+            }
+        }
+    }
+}
