@@ -1,0 +1,19 @@
+footer {
+    background-color: #123fc8;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%; 
+        
+        img {
+            width: 100px;
+            height: 120px;
+        }
+    }
+}
