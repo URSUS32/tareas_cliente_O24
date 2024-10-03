@@ -1,0 +1,15 @@
+@import '../../../styles/.colors.scss';
+
+.users-container{
+    height: 65vh;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    padding: 5%;
+}
+
+@media (max-width: 1000px) {
+    .users-container {
+        grid-template-columns: 1fr;
+    }
+}

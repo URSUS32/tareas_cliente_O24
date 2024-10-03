@@ -1,0 +1,10 @@
+<div class="users-list">
+    <h2>Users</h2>
+    <ul>
+        @for (user of users; track $index) {
+            <li (click)="onSelect(user)" [ngClass]="{'selected': isSelected(user)}">
+                {{user.name}} ({{user.username}})
+            </li>
+        }
+    </ul>
+</div>
