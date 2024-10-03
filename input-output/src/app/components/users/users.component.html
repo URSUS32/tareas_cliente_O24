@@ -1,0 +1,11 @@
+<div class="users-container">
+  <app-users-list
+    [selectedUser]="selectedUser"
+    (userSelected)="onUserSelected($event)">
+  </app-users-list>
+  <app-user-details
+    [user]="selectedUser"
+    (clearSelection)="onClearSelection()">
+  </app-user-details>
+</div>
+  

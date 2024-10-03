@@ -1,0 +1,9 @@
+@import '../../../../styles/.colors.scss';
+
+footer{
+    height: 10vh;
+    background-color: $active-page;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
