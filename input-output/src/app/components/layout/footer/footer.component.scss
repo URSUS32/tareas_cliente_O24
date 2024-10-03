@@ -1,7 +1,7 @@
 @import '../../../../styles/.colors.scss';
 
 footer{
-    height: 10vh;
+    min-height: 100px;
     background-color: $active-page;
     display: flex;
     justify-content: center;
